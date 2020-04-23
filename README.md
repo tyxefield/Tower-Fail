@@ -16,7 +16,7 @@ and emulating a 3D environment with only vectors, too cool!
 
 -To play, execute the "TowerFail.jar" file as java application.
 
-As always all the rights are from Notch, i addapted the last version, enjoy this
+As always all the rights are from Notch, i have adapted the last version, enjoy this
 simulation.
 
 # -Recovered by DS Nahogaga-
